@@ -1,12 +1,12 @@
 # M:
 
-- pshlr
+- pshlrbr
   - 3 
-    - 7
+    - 10
     
 # F:
 
 - plusq
   - 3
-    - 7
+    - 10
     
